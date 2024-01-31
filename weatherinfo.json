@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -96.3662,
+        "lat": 30.6327
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 18.88,
+        "feels_like": 17.92,
+        "temp_min": 16.06,
+        "temp_max": 22.06,
+        "pressure": 1021,
+        "humidity": 42
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.06,
+        "deg": 220
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1706659747,
+    "sys": {
+        "type": 2,
+        "id": 2004581,
+        "country": "US",
+        "sunrise": 1706620690,
+        "sunset": 1706659143
+    },
+    "timezone": -21600,
+    "id": 0,
+    "name": "Bryan",
+    "cod": 200
+}
